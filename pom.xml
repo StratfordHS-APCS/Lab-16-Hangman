@@ -4,8 +4,8 @@
    http://maven.apache.org/xsd/maven-4.0.0.xsd">
    <modelVersion>4.0.0</modelVersion>
 
-   <groupId>com.SHS.CS2</groupId>
-   <artifactId>Lab-25-Hangman</artifactId>
+   <groupId>com.SHS.APCS</groupId>
+   <artifactId>Lab-16-Hangman</artifactId>
    <version>1.0</version>
 
 

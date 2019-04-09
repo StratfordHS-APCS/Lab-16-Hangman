@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/StratfordHS-CS2/lab-25-hangman-username.svg)](https://travis-ci.com/StratfordHS-CS2/lab-25-hangman-username)
+[![Build Status](https://travis-ci.com/StratfordHS-APCS/lab-16-hangman-username.svg)](https://travis-ci.com/StratfordHS-APCS/lab-16-hangman-username)
 
-# Lab 25 - Hangman
+# Lab 16 - Hangman
 
 ## Lab Goal
 You will write a playable game of Hangman.
